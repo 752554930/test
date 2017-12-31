@@ -20,17 +20,17 @@ Codee is an github android client app written using kotlin
 
 ## TODO
 
-- [ ] ❌ Support ForkApplyEvent GistEvent GollumEvent MemberEvent PullRequestReviewCommentEvent PushEvent TeamAddEvent
-- [ ] ❌ Follow or unfollow user
-- [ ] ❌ Star or unstar repository
-- [ ] ❌ Show issue details
-- [ ] ❌ Show notifications
-- [ ] ❌ Display the repository's list of commits and pull requests
-- [ ] ❌ Show source code tree
+- [ ] Support ForkApplyEvent GistEvent GollumEvent MemberEvent PullRequestReviewCommentEvent PushEvent TeamAddEvent
+- [ ] Follow or unfollow user
+- [ ] Star or unstar repository
+- [ ] Show issue details
+- [ ] Show notifications
+- [ ] Display the repository's list of commits and pull requests
+- [ ] Show source code tree
 
 ## Screenshots
 
-<img src="https://raw.github.com/typ0520/Codee/master/screenshots/image1.jpg" width="240">&nbsp;<img src="https://raw.github.com/typ0520/Codee/master/screenshots/image2.jpg" width="240">&nbsp;<img src="https://raw.github.com/typ0520/Codee/master/screenshots/image3.jpg" width="240">&nbsp;<img src="https://raw.github.com/typ0520/Codee/master/screenshots/image4.jpg" width="240">&nbsp;<img src="https://raw.github.com/typ0520/Codee/master/screenshots/image5.jpg" width="240">
+<img src="https://raw.github.com/752554930/master/screenshots/image1.jpg" width="240">&nbsp;<img src="https://raw.github.com/752554930/master/screenshots/image2.jpg" width="240">&nbsp;<img src="https://raw.github.com/752554930/master/screenshots/image3.jpg" width="240">&nbsp;<img src="https://raw.github.com/752554930/master/screenshots/image4.jpg" width="240">&nbsp;<img src="https://raw.github.com/752554930/master/screenshots/image5.jpg" width="240">&nbsp;<img src="https://raw.github.com/752554930/master/screenshots/image6.jpg" width="240">
 
 ## Thanks for open source
 
