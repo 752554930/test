@@ -30,7 +30,7 @@ Codee is an github android client app written using kotlin
 
 ## Screenshots
 
-<img src="https://raw.github.com/752554930/test/master/image1.jpg" width="240">&nbsp;<img src="https://raw.github.com/752554930/test/master/image2.jpg" width="240">&nbsp;<img src="https://raw.github.com/752554930/test/master/image3.jpg" width="240">&nbsp;<img src="https://raw.github.com/752554930/test/master/image4.jpg" width="240">&nbsp;<img src="https://raw.github.com/752554930/test/master/image5.jpg" width="240">&nbsp;<img src="https://raw.github.com/752554930/master/image6.jpg" width="240">
+<img src="https://raw.github.com/752554930/test/master/image1.jpg" width="240">&nbsp;<img src="https://raw.github.com/752554930/test/master/image2.jpg" width="240">&nbsp;<img src="https://raw.github.com/752554930/test/master/image3.jpg" width="240">&nbsp;<img src="https://raw.github.com/752554930/test/master/image4.jpg" width="240">&nbsp;<img src="https://raw.github.com/752554930/test/master/image5.jpg" width="240">&nbsp;<img src="https://raw.github.com/752554930/test/master/image6.jpg" width="240">
 
 ## Thanks for open source
 
