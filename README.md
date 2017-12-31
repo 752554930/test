@@ -1,7 +1,7 @@
 ## Codee
 
-[![license](https://img.shields.io/hexpm/l/plug.svg)](https://raw.githubusercontent.com/typ0520/Codee/blob/master/LICENSE)
-[![Releases](https://img.shields.io/badge/android-4.1.1-brightgreen.svg)](https:/www.github.com/typ0520/Codee)
+[![license](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/typ0520/Codee/blob/master/LICENSE)
+[![Releases](https://img.shields.io/badge/android-4.1.1-brightgreen.svg)](https:/github.com/typ0520/Codee)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/typ0520/Codee/pulls)
 
 Codee is an github android client app written using kotlin
